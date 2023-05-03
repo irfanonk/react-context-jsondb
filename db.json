@@ -1,0 +1,33 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "userId": 1,
+      "title": "todo title",
+      "description": "todo description"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "İrfan",
+      "email": "irfan@clarusway.com",
+      "password": "test",
+      "description": "This is my description"
+    },
+    {
+      "id": "74742e7f-9a18-4b5e-8ed9-f452f277bd50",
+      "name": "test",
+      "email": "test@gmail.com",
+      "password": "test",
+      "description": ""
+    },
+    {
+      "id": "d48012e2-26d0-4818-9cac-73efe17e30da",
+      "name": "test",
+      "email": "test1@gmail.com",
+      "password": "test",
+      "description": ""
+    }
+  ]
+}

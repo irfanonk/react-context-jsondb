@@ -1,0 +1,8 @@
+[
+  { "name": "John", "age": 25, "occupation": "gardener", "userId": 1 },
+  { "name": "Lenny", "age": 51, "occupation": "programmer", "userId": 2 },
+  { "name": "Andrew", "age": 43, "occupation": "teacher", "userId": 3 },
+  { "name": "Peter", "age": 81, "occupation": "teacher", "userId": 4 },
+  { "name": "Anna", "age": 47, "occupation": "programmer", "userId": 5 },
+  { "name": "Albert", "age": 76, "occupation": "programmer", "userId": 6 }
+]
